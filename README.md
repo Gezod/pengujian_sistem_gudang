@@ -28,16 +28,6 @@ Pada proses login sistem, digunakan logika percabangan sebagai berikut:
    - Jika `dosen`, akan diarahkan ke halaman dosen.
    - Jika `admin`, akan diarahkan ke halaman admin.
 
-### 🔢 Komponen Flowchart:
-- **Node (simpul)**: 10
-- **Edge (alur/panah)**: 11
-
-### 🧮 Cyclomatic Complexity (VG)
-\[
-VG = E - N + 2P = 11 - 10 + 2(1) = 3
-\]
-Artinya terdapat **3 jalur logika independen** yang perlu diuji.
-
 ---
 
 ## 🛠️ Fitur Sistem
